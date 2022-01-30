@@ -1,0 +1,248 @@
+[
+  [
+    {
+      "courseName": "Mathematics -I",
+      "theoryCredits": 4,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Chemistry",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Programming for Problem Solving",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Workshop (Manufacturing Practices)",
+      "theoryCredits": 0,
+      "practicalCredits": 3
+    },
+    {
+      "courseName": "Professional Communication",
+      "theoryCredits": 2,
+      "practicalCredits": 1
+    }
+  ],
+  [
+    {
+      "courseName": "Physics",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Mathematics-II",
+      "theoryCredits": 4,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Basic Electrical Engineering",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Engineering Graphics",
+      "theoryCredits": 2,
+      "practicalCredits": 2
+    },
+    {
+      "courseName": "Engineering Mechanics",
+      "theoryCredits": 2,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Engineering Exploration",
+      "theoryCredits": 0,
+      "practicalCredits": 2
+    }
+  ],
+  [
+    {
+      "courseName": "Mathematics-III",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Organic Chemistry",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Applied Physical Chemistry",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Chemical Process Calculations",
+      "theoryCredits": 4,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Fluid Mechanics",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Chemical Engineering Thermodynamics - I",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Human Values and Professional Ethics",
+      "theoryCredits": 2,
+      "practicalCredits": 0
+    }
+  ],
+  [
+    {
+      "courseName": "Mathematics - IV",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Fundamentals of Electronics",
+      "theoryCredits": 2,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Heat Transfer",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Chemical Engineering Thermodynamics - II",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Mass Transfer - I",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Mechanical Operations",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    }
+  ],
+  [
+    {
+      "courseName": "Mass Transfer-II",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Chemical Reaction Engineering-I",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Process Equipment Design & Drawing",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Numerical Methods in Chemical Engineering",
+      "theoryCredits": 2,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Core Elective-I",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Open Elective-I",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    }
+  ],
+  [
+    {
+      "courseName": "Process Dynamics and Control",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Chemical Reaction Engg-II",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Plant Design & Economics Management",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Chemical Process Industries",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Core Elective-II",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Open Elective-II",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    }
+  ],
+  [
+    {
+      "courseName": "Process Equipment Design & Drawing-II",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Process Modeling & Simulation",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Transport Phenomena",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Industrial Organization & Management",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Elective-III",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Seminar",
+      "theoryCredits": 0,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Minor Project",
+      "theoryCredits": 0,
+      "practicalCredits": 4
+    }
+  ],
+  [
+    {
+      "courseName": "Elective-IV",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Elective-V",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Major Project",
+      "theoryCredits": 0,
+      "practicalCredits": 8
+    }
+  ]
+]
